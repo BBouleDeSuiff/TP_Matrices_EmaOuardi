@@ -1,0 +1,121 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AArray_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003F_002E_002E_003F_002E_002E_003F_002E_002E_003FAppData_003FRoaming_003FJetBrains_003FRider2024_002E2_003Fresharper_002Dhost_003FSourcesCache_003F96178db1709e872c391367fef1b31fca80f9f18119cdf4145a2650ac9f332ac_003FArray_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AAssert_002Ecs_002Fl_003AC_0021_003FUsers_003Femaet_003FAppData_003FRoaming_003FJetBrains_003FRider2024_002E2_003Fresharper_002Dhost_003FSourcesCache_003F46a322d26154b982566e1817203e5452c91223f93b0e392d9c5b4806696fdc1_003FAssert_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AAssert_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003F_002E_002E_003F_002E_002E_003F_002E_002E_003FAppData_003FRoaming_003FJetBrains_003FRider2024_002E2_003Fresharper_002Dhost_003FSourcesCache_003F46a322d26154b982566e1817203e5452c91223f93b0e392d9c5b4806696fdc1_003FAssert_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003ADefaultFloatingPointToleranceAttribute_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003F_002E_002E_003F_002E_002E_003F_002E_002E_003FAppData_003FRoaming_003FJetBrains_003FRider2024_002E2_003Fresharper_002Dhost_003FSourcesCache_003F887ddebcb5281cc5d9451f49cb22e4bf17acfdd0686ae6605e164eed8b1a333_003FDefaultFloatingPointToleranceAttribute_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003ADivideByZeroException_002Ecs_002Fl_003AC_0021_003FUsers_003Femaet_003FAppData_003FRoaming_003FJetBrains_003FRider2024_002E2_003Fresharper_002Dhost_003FSourcesCache_003F8dec678db92b27526218a08d5ce69b3b5d7ef98eee75342b8357a1b8d73bc4_003FDivideByZeroException_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003ASimpleWorkItemDispatcher_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003F_002E_002E_003F_002E_002E_003F_002E_002E_003FAppData_003FRoaming_003FJetBrains_003FRider2024_002E2_003Fresharper_002Dhost_003FSourcesCache_003Fdf6051f28c6c3f2ca0ddb6b26543d79632e5fa7a43a54a54eba91d4478568c0_003FSimpleWorkItemDispatcher_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AVoid_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003F_002E_002E_003F_002E_002E_003F_002E_002E_003FAppData_003FRoaming_003FJetBrains_003FRider2024_002E2_003Fresharper_002Dhost_003FDecompilerCache_003Fdecompiler_003F24372012c6c94138bf3f496e104366ffc8f918_003Fd2_003Fbddec814_003FVoid_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AWorkItem_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003F_002E_002E_003F_002E_002E_003F_002E_002E_003FAppData_003FRoaming_003FJetBrains_003FRider2024_002E2_003Fresharper_002Dhost_003FSourcesCache_003Fd056b4e3b34cd15e21dec611d5b5bbaf85e1f15b445f4e6b3e4dc6634d649042_003FWorkItem_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0623482b_002Dcdc6_002D4d91_002D8bdf_002D775c0e85fb14/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from Tests01_NewMatrices.cs" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;ProjectFile&gt;BE836096-B7D5-446F-AE19-B269C29AF3E4/f:Tests01_NewMatrices.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;BE836096-B7D5-446F-AE19-B269C29AF3E4/f:Tests02_CopyAndModifyMatrices.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;BE836096-B7D5-446F-AE19-B269C29AF3E4/f:Tests03_IdentityMatrices.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;BE836096-B7D5-446F-AE19-B269C29AF3E4/f:Tests04_ScalarMultiplication.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;BE836096-B7D5-446F-AE19-B269C29AF3E4/f:Tests05_MatricesAddAndSubtract.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;BE836096-B7D5-446F-AE19-B269C29AF3E4/f:Tests06_MatricesMultiplication.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;BE836096-B7D5-446F-AE19-B269C29AF3E4/f:Tests07_TransposeMatrices.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;BE836096-B7D5-446F-AE19-B269C29AF3E4/f:Tests08_ElementaryOperations.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;BE836096-B7D5-446F-AE19-B269C29AF3E4/f:Tests09_AugmentedMatricesAndSplit.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;BE836096-B7D5-446F-AE19-B269C29AF3E4/f:Tests10_RowReduction.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;BE836096-B7D5-446F-AE19-B269C29AF3E4/f:Tests11_InvertMatricesUsingRowReduction.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::BE836096-B7D5-446F-AE19-B269C29AF3E4::net8.0::Maths_Matrices.Tests.Tests13_Determinants&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::BE836096-B7D5-446F-AE19-B269C29AF3E4::net8.0::Maths_Matrices.Tests.Tests12_SubMatrices&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+    &lt;ProjectFile&gt;BE836096-B7D5-446F-AE19-B269C29AF3E4/f:Tests14_AdjugateMatrices.cs&lt;/ProjectFile&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2bff02c7_002D42aa_002D4d08_002D8728_002D7f9eaf81d962/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestCalculateAdjugateMatrixInstance #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::BE836096-B7D5-446F-AE19-B269C29AF3E4::net8.0::Maths_Matrices.Tests.Tests14_AdjugateMatrices&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::BE836096-B7D5-446F-AE19-B269C29AF3E4::net8.0::Maths_Matrices.Tests.Tests15_InvertMatricesUsingDeterminant.TestInvertMatrixInstance&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::BE836096-B7D5-446F-AE19-B269C29AF3E4::net8.0::Maths_Matrices.Tests.Tests15_InvertMatricesUsingDeterminant.TestInvertMatrixStatic&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::BE836096-B7D5-446F-AE19-B269C29AF3E4::net8.0::Maths_Matrices.Tests.Tests15_InvertMatricesUsingDeterminant.TestInvertImpossibleMatrix&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::BE836096-B7D5-446F-AE19-B269C29AF3E4::net8.0::Maths_Matrices.Tests.Tests16_TransformationMatrices.TestTranslatePoint&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::BE836096-B7D5-446F-AE19-B269C29AF3E4::net8.0::Maths_Matrices.Tests.Tests16_TransformationMatrices.TestTranslateDirection&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::BE836096-B7D5-446F-AE19-B269C29AF3E4::net8.0::Maths_Matrices.Tests.Tests16_TransformationMatrices&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3b655322_002D64e5_002D484e_002Dbe72_002Dbe4eb3a074d2/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Tests10_RowReduction" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::BE836096-B7D5-446F-AE19-B269C29AF3E4::net8.0::Maths_Matrices.Tests.Tests10_RowReduction&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5f326d59_002D1b25_002D4b48_002D8e23_002D81d1d58b6e51/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestParentChangePositionAndRotation" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::BE836096-B7D5-446F-AE19-B269C29AF3E4::net8.0::Maths_Matrices.Tests.Tests21_TransformSetParentAndCheckWorldPosition&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::BE836096-B7D5-446F-AE19-B269C29AF3E4::net8.0::Maths_Matrices.Tests.Tests22_TransformChangeWorldPosition.TestChangeWorldPosition&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::BE836096-B7D5-446F-AE19-B269C29AF3E4::net8.0::Maths_Matrices.Tests.Tests22_TransformChangeWorldPosition&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::BE836096-B7D5-446F-AE19-B269C29AF3E4::net8.0::Maths_Matrices.Tests.Tests23_NewQuaternions&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=63497cca_002Dfdfe_002D4cf7_002D8870_002D28dc92f8b159/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Tests10_RowReduction #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::BE836096-B7D5-446F-AE19-B269C29AF3E4::net8.0::Maths_Matrices.Tests.Tests10_RowReduction&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=665ef849_002D28fb_002D4f7c_002D9c0e_002D2cccdb2d5501/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Tests21_TransformSetParentAndCheckWorldPosition" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::BE836096-B7D5-446F-AE19-B269C29AF3E4::net8.0::Maths_Matrices.Tests.Tests21_TransformSetParentAndCheckWorldPosition&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=719b8857_002D4e1b_002D410a_002D9198_002D952412901bc8/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestCalculateAdjugateMatrixInstance" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::BE836096-B7D5-446F-AE19-B269C29AF3E4::net8.0::Maths_Matrices.Tests.Tests14_AdjugateMatrices.TestCalculateAdjugateMatrixInstance&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=735dcc1c_002Da98c_002D4ed4_002D8484_002D4d11008b6f44/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestCalculateAdjugateMatrixInstance #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::BE836096-B7D5-446F-AE19-B269C29AF3E4::net8.0::Maths_Matrices.Tests.Tests14_AdjugateMatrices.TestCalculateAdjugateMatrixInstance&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9af94ca8_002D539d_002D491d_002Db4c6_002De6490207f3fc/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Tests10_RowReduction #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::BE836096-B7D5-446F-AE19-B269C29AF3E4::net8.0::Maths_Matrices.Tests.Tests10_RowReduction&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::BE836096-B7D5-446F-AE19-B269C29AF3E4::net8.0::Maths_Matrices.Tests.Tests12_SubMatrices&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c93ae064_002Da3ec_002D4116_002Db8b7_002D5e65966403f0/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Tests12_SubMatrices" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::BE836096-B7D5-446F-AE19-B269C29AF3E4::net8.0::Maths_Matrices.Tests.Tests12_SubMatrices&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e38fddb7_002D7435_002D4364_002D86e1_002D64691b363890/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Session" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;ProjectFile&gt;BE836096-B7D5-446F-AE19-B269C29AF3E4/f:Tests01_NewMatrices.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;BE836096-B7D5-446F-AE19-B269C29AF3E4/f:Tests02_CopyAndModifyMatrices.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;BE836096-B7D5-446F-AE19-B269C29AF3E4/f:Tests03_IdentityMatrices.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;BE836096-B7D5-446F-AE19-B269C29AF3E4/f:Tests04_ScalarMultiplication.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;BE836096-B7D5-446F-AE19-B269C29AF3E4/f:Tests05_MatricesAddAndSubtract.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;BE836096-B7D5-446F-AE19-B269C29AF3E4/f:Tests06_MatricesMultiplication.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;BE836096-B7D5-446F-AE19-B269C29AF3E4/f:Tests07_TransposeMatrices.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;BE836096-B7D5-446F-AE19-B269C29AF3E4/f:Tests08_ElementaryOperations.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;BE836096-B7D5-446F-AE19-B269C29AF3E4/f:Tests09_AugmentedMatricesAndSplit.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::BE836096-B7D5-446F-AE19-B269C29AF3E4::net8.0::Maths_Matrices.Tests.Tests13_Determinants&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::BE836096-B7D5-446F-AE19-B269C29AF3E4::net8.0::Maths_Matrices.Tests.Tests14_AdjugateMatrices.TestCalculateAdjugateMatrixInstance&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::BE836096-B7D5-446F-AE19-B269C29AF3E4::net8.0::Maths_Matrices.Tests.Tests16_TransformationMatrices&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::BE836096-B7D5-446F-AE19-B269C29AF3E4::net8.0::Maths_Matrices.Tests.Tests17_TransformLocalPosition&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::BE836096-B7D5-446F-AE19-B269C29AF3E4::net8.0::Maths_Matrices.Tests.Tests18_TransformLocalRotations&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::BE836096-B7D5-446F-AE19-B269C29AF3E4::net8.0::Maths_Matrices.Tests.Tests27_QuaternionsMatrix&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::BE836096-B7D5-446F-AE19-B269C29AF3E4::net8.0::Maths_Matrices.Tests.Tests28_QuaternionsEulerConversions.TestQuaternionToEulerCustomAxis1&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::BE836096-B7D5-446F-AE19-B269C29AF3E4::net8.0::Maths_Matrices.Tests.Tests28_QuaternionsEulerConversions&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::BE836096-B7D5-446F-AE19-B269C29AF3E4::net8.0::Maths_Matrices.Tests.Tests29_TransformGetLocalRotationAsQuaternion&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::BE836096-B7D5-446F-AE19-B269C29AF3E4::net8.0::Maths_Matrices.Tests.Tests30_TransformSetLocalRotationAsQuaternion&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=eb3e1867_002D6db8_002D4d1f_002Da8e7_002Df1fd8e3bb692/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestNewQuaternionFromAnother" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::BE836096-B7D5-446F-AE19-B269C29AF3E4::net8.0::Maths_Matrices.Tests.Tests23_NewQuaternions&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::BE836096-B7D5-446F-AE19-B269C29AF3E4::net8.0::Maths_Matrices.Tests.Tests24_QuaternionsAngleAxis&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::BE836096-B7D5-446F-AE19-B269C29AF3E4::net8.0::Maths_Matrices.Tests.Tests25_QuaternionsMultiplication&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::BE836096-B7D5-446F-AE19-B269C29AF3E4::net8.0::Maths_Matrices.Tests.Tests26_QuaternionsPointRotation&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::BE836096-B7D5-446F-AE19-B269C29AF3E4::net8.0::Maths_Matrices.Tests.Tests27_QuaternionsMatrix&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::BE836096-B7D5-446F-AE19-B269C29AF3E4::net8.0::Maths_Matrices.Tests.Tests28_QuaternionsEulerConversions&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
